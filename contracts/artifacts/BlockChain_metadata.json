@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HelloWorld.sol": "BlockChain"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HelloWorld.sol": {
+			"keccak256": "0x615223c2502ce1b570bfe87482c36000b3b4063d95f49adbcacff53217d3b0dc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3fd8bc18caaf50a5feac804614b71623dbe123a647371924758d2dd4120f5e39",
+				"dweb:/ipfs/QmeaWo3BmYtACUWeroE61Nw7DFuLzdMowDengaLbgswkaZ"
+			]
+		}
+	},
+	"version": 1
+}

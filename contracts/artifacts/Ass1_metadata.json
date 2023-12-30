@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "AddNum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HelloWorld.sol": "Ass1"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HelloWorld.sol": {
+			"keccak256": "0x8e933870f4b9eba76b6e4f2eaf3521fbdedc01cc82d100d79b264600df73ba55",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://218c8b8e7de0189b2ef8ab308972ad117d4b4d1bcda05f147ed171a79ae09aa3",
+				"dweb:/ipfs/QmVby7uK4zGKn2dr6U1a7sKhEYWzso9tpmcgwbUXZ1K4PA"
+			]
+		}
+	},
+	"version": 1
+}
