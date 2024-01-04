@@ -4,7 +4,7 @@ pragma solidity >=0.6.12 <0.9.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract MyToken is ERC20 {
+contract Aitu_Alibek_your_Kamiluly is ERC20 {
     using Strings for uint256;
 
     constructor() ERC20("<Aitu_Alibek_your_Kamiluly>", "UNI") {
