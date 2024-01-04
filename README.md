@@ -22,11 +22,11 @@ Before you start, make sure you have the following:
 
 Returns the block timestamp of the latest transaction in a human-readable format.
 
-#### `getTransactionSender()`
+#### `getTransactionSenderAdress()`
 
 Returns the address of the transaction sender.
 
-#### `getTransactionReceiver()`
+#### `getTransactionReceiverAdress()`
 
 Returns the address of the transaction receiver.
 
