@@ -38,6 +38,7 @@ Returns the address of the transaction receiver.
 
 ![Screenshot](demoscreenshot.png)
 
+![image](https://github.com/akosy4ch/BTX_1/assets/121079410/15d28ea5-d260-46ec-aebd-90e934f0fd97)
 
 ### Examples
 
