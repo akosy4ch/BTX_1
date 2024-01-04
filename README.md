@@ -12,7 +12,7 @@ Before you start, make sure you have the following:
 
 ### Deployment
 
-1. Open Remix and load the `MyToken.sol` file.
+1. Open Remix and load the `HelloWorld3.sol` file.
 2. Compile the contract and deploy it using the Metamask wallet.
 3. Interact with the contract using the provided functions.
 
